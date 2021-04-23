@@ -1,0 +1,1 @@
+D:\Hololens-Games\UnityHoloLens-2\Basic HUD\UnityHoloLens-2\UnityHoloLens-2.vcxproj;arm
