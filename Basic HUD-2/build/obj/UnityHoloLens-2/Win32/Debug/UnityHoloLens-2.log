@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  App.cpp
+  Main.cpp
+  UnityGenerated.cpp
+D:\Hololens-Games\UnityHoloLens-2\Basic HUD-2\UnityHoloLens-2\App.cpp(26,1): warning C4973: 'Windows::UI::ViewManagement::IApplicationView2::SuppressSystemOverlays::set': marked as deprecated
+D:\Hololens-Games\UnityHoloLens-2\Basic HUD-2\UnityHoloLens-2\App.cpp(26,1): message : Message: 'Use the TryEnterFullScreen method and IsFullScreenMode property instead of SuppressSystemOverlays. For more info, see MSDN.'
+  UnityHoloLens-2.vcxproj -> D:\Hololens-Games\UnityHoloLens-2\Basic HUD-2\build\bin\Win32\Debug\UnityHoloLens-2.exe

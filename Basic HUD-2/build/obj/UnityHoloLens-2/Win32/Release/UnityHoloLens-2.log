@@ -1,0 +1,9 @@
+﻿  App.cpp
+  UnityGenerated.cpp
+D:\Hololens-Games\UnityHoloLens-2\Basic HUD-2\UnityHoloLens-2\App.cpp(26,1): warning C4973: 'Windows::UI::ViewManagement::IApplicationView2::SuppressSystemOverlays::set': marked as deprecated
+D:\Hololens-Games\UnityHoloLens-2\Basic HUD-2\UnityHoloLens-2\App.cpp(26,1): message : Message: 'Use the TryEnterFullScreen method and IsFullScreenMode property instead of SuppressSystemOverlays. For more info, see MSDN.'
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 160 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UnityHoloLens-2.vcxproj -> D:\Hololens-Games\UnityHoloLens-2\Basic HUD-2\build\bin\Win32\Release\UnityHoloLens-2.exe
