@@ -1,0 +1,223 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 15.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: D:\Visual Studio\IDE\VC\Tools\MSVC\14.28.29910\bin\HostX64\x86\link.exe
+  	Msvc Compiler Path: D:\Visual Studio\IDE\VC\Tools\MSVC\14.28.29910\bin\HostX64\x86\cl.exe
+  
+  	Output directory: D:\Hololens-Games\UnityHoloLens-2\Basic HUD-2\build\bin\Win32\Debug
+  	Cache directory: D:\Hololens-Games\UnityHoloLens-2\Basic HUD-2\build\obj\il2cppOutputProject\Win32\Debug
+  mscorlib_CodeGen.c
+  Il2CppMetadataUsage.c
+  UnityEngine.UIElementsModule.cpp
+  Il2CppGenericMethodPointerTable.cpp
+  Unity.TextMeshPro1.cpp
+  GenericMethods5.cpp
+  Unity.TextMeshPro.cpp
+  GenericMethods1.cpp
+  mscorlib3.cpp
+  Il2CppGenericMethodDefinitions.c
+  Il2CppTypeDefinitions.c
+  Il2CppAttributes.cpp
+  Il2CppCompilerCalculateTypeValues1.cpp
+  Il2CppInvokerTable.cpp
+  Il2CppCompilerCalculateTypeValues.cpp
+  Generics1.cpp
+  Il2CppGenericMethodTable.c
+  mscorlib4.cpp
+  Unity.TextMeshPro2.cpp
+  mscorlib9.cpp
+  Unity.TextMeshPro3.cpp
+  mscorlib2.cpp
+  GenericMethods3.cpp
+  UnityEngine.UI1.cpp
+  mscorlib16.cpp
+  UnityEngine.UI.cpp
+  Generics.cpp
+  mscorlib11.cpp
+  mscorlib12.cpp
+  mscorlib7.cpp
+  mscorlib10.cpp
+  mscorlib6.cpp
+  mscorlib.cpp
+  GenericMethods4.cpp
+  System.cpp
+  Generics18.cpp
+  Assembly-CSharp.cpp
+  mscorlib15.cpp
+  Generics4.cpp
+  mscorlib1.cpp
+  UnityEngine.CoreModule1.cpp
+  Unity.TextMeshPro4.cpp
+  UnityEngine.CoreModule.cpp
+  mscorlib8.cpp
+  UnityEngine.UI2.cpp
+  mscorlib5.cpp
+  Il2CppGenericClassTable.c
+  Generics9.cpp
+  Generics5.cpp
+  Generics16.cpp
+  Generics2.cpp
+  Generics7.cpp
+  mscorlib13.cpp
+  Generics6.cpp
+  GenericMethods.cpp
+  mscorlib14.cpp
+  Generics17.cpp
+  Generics12.cpp
+  Generics14.cpp
+  Generics10.cpp
+  Generics13.cpp
+  System1.cpp
+  Il2CppGenericInstDefinitions.c
+  Generics8.cpp
+  Generics19.cpp
+  Generics11.cpp
+  GenericMethods2.cpp
+  UnityEngine.UI3.cpp
+  I18N.CJK.cpp
+  UnityEngine.VRModule.cpp
+  Generics15.cpp
+  mscorlib17.cpp
+  I18N.cpp
+  Unity.XR.WindowsMR.cpp
+  Generics3.cpp
+  UnityEngine.IMGUIModule.cpp
+  I18N.West.cpp
+  I18N.Rare.cpp
+  I18N.Rare1.cpp
+  UnityEngine.AndroidJNIModule.cpp
+  UnityEngine.CoreModule_CodeGen.c
+  UnityEngine.UI_CodeGen.c
+  Unity.TextMeshPro_CodeGen.c
+  UnresolvedVirtualCallStubs.cpp
+  char-conversions.cpp
+  Unity.TextMeshPro5.cpp
+  Il2CppCompilerCalculateTypeValuesTable.cpp
+  UnityEngine.UIElementsModule1.cpp
+  I18N.Other.cpp
+  UnityEngine.CoreModule2.cpp
+  UnityEngine.TerrainModule.cpp
+  UnityEngine.TextCoreModule.cpp
+  System_CodeGen.c
+  GenericMethods6.cpp
+  System2.cpp
+  I18N.MidEast.cpp
+  Il2CppInteropDataTable.cpp
+  UnityEngine.AnimationModule.cpp
+  UnityEngine.XRModule.cpp
+  UnityEngine.UIElementsModule_CodeGen.c
+  UnityEngine.UIModule.cpp
+  UnityEngine.TextRenderingModule.cpp
+  Assembly-CSharp_CodeGen.c
+  UnityEngine.Physics2DModule.cpp
+  UnityEngine.SharedInternalsModule.cpp
+  UnityEngine.InputLegacyModule.cpp
+  deflate.c
+  UnityEngine.PhysicsModule.cpp
+  Mono.Security.cpp
+  System.Xml.cpp
+  UnityEngine.IMGUIModule_CodeGen.c
+  UnityEngine.VRModule_CodeGen.c
+  UnityEngine.TilemapModule.cpp
+  UnityEngine.SubsystemsModule.cpp
+  UnityEngine.VideoModule.cpp
+  UnityEngine.ParticleSystemModule.cpp
+  UnityEngine.AudioModule.cpp
+  UnityEngine.UnityAnalyticsModule.cpp
+  I18N.Rare_CodeGen.c
+  I18N.CJK_CodeGen.c
+  UnityEngine.AndroidJNIModule_CodeGen.c
+  trees.c
+  inflate.c
+  UnityEngine.UnityWebRequestModule.cpp
+  Unity.XR.WindowsMR_CodeGen.c
+  UnityEngine.TextCoreModule_CodeGen.c
+  I18N_CodeGen.c
+  UnityEngine.UIModule_CodeGen.c
+  xamarin_getifaddrs.c
+  System.Configuration.cpp
+  I18N.West_CodeGen.c
+  UnityEngine.VFXModule.cpp
+  UnityEngine.AssetBundleModule.cpp
+  UnityEngine.AnimationModule_CodeGen.c
+  UnityEngine.InputModule.cpp
+  infback.c
+  UnityEngine.PhysicsModule_CodeGen.c
+  System.Core_CodeGen.c
+  I18N.Other_CodeGen.c
+  gzread.c
+  gzwrite.c
+  UnityEngine.DirectorModule.cpp
+  gzlib.c
+  UnityEngine.AIModule.cpp
+  UnityEngine.SharedInternalsModule_CodeGen.c
+  System.Core.cpp
+  UnityEngine.XRModule_CodeGen.c
+  UnityEngine.TerrainModule_CodeGen.c
+  inftrees.c
+  UnityEngine.Physics2DModule_CodeGen.c
+  UnityEngine.TextRenderingModule_CodeGen.c
+  inffast.c
+  crc32.c
+  I18N.MidEast_CodeGen.c
+  il2cpp-api.cpp
+  UnityEngine.InputLegacyModule_CodeGen.c
+  UnityEngine.TilemapModule_CodeGen.c
+  UnityEngine.AudioModule_CodeGen.c
+  UnityEngine.VideoModule_CodeGen.c
+  zutil.c
+  UnityEngine.SubsystemsModule_CodeGen.c
+  UnityEngine.UnityAnalyticsModule_CodeGen.c
+  System.Xml_CodeGen.c
+  UnityEngine.ParticleSystemModule_CodeGen.c
+  System.Configuration_CodeGen.c
+  adler32.c
+  Mono.Security_CodeGen.c
+  Il2CppCodeRegistration.cpp
+  UnityEngine.InputModule_CodeGen.c
+  UnityEngine.VFXModule_CodeGen.c
+  uncompr.c
+  UnityAdsStubs.cpp
+  UnityEngine.GridModule.cpp
+  compress.c
+  UnityEngine.AIModule_CodeGen.c
+  krait_signal_handler.c
+  UnityEngine.DirectorModule_CodeGen.c
+  UnityEngine.UnityWebRequestModule_CodeGen.c
+  Il2CppReversePInvokeWrapperTable.cpp
+  Il2CppMetadataRegistration.c
+  UnityEngine.GridModule_CodeGen.c
+  il2cpp-benchmark-support.cpp
+  gzclose.c
+  UnityEngine.cpp
+  UnityEngine.AssetBundleModule_CodeGen.c
+  Lump_libil2cpp_metadata.cpp
+  Lump_libil2cpp_utils.cpp
+  Lump_libil2cpp_mono-runtime.cpp
+  UnityEngine_CodeGen.c
+  Lump_libil2cpp_gc.cpp
+  Lump_libil2cpp_debugger.cpp
+  Il2CppGenericComDefinitions.cpp
+  il2cpp-runtime-stats.cpp
+  Lump_libil2cpp_icalls.cpp
+  Lump_libil2cpp_vm-utils.cpp
+  Lump_libil2cpp_codegen.cpp
+  Lump_libil2cpp_mono.cpp
+  gc.c
+  Lump_libil2cpp_vm.cpp
+  Lump_libil2cpp_os.cpp
+  ObjectFiles: 200 of which compiled: 200
+  	Time Compile: 3715 milliseconds Lump_libil2cpp_os.cpp
+  	Time Compile: 2332 milliseconds Lump_libil2cpp_vm.cpp
+  	Time Compile: 2245 milliseconds Unity.TextMeshPro3.cpp
+  	Time Compile: 2245 milliseconds Lump_libil2cpp_icalls.cpp
+  	Time Compile: 2134 milliseconds Unity.TextMeshPro2.cpp
+  	Time Compile: 1774 milliseconds Il2CppCompilerCalculateTypeValues.cpp
+  	Time Compile: 1721 milliseconds Unity.TextMeshPro4.cpp
+  	Time Compile: 1691 milliseconds gc.c
+  	Time Compile: 1656 milliseconds Il2CppInvokerTable.cpp
+  	Time Compile: 1541 milliseconds Il2CppCompilerCalculateTypeValues1.cpp
+  Total compilation time: 10864 milliseconds.
+  Creating library D:\Hololens-Games\UnityHoloLens-2\Basic HUD-2\build\obj\il2cppOutputProject\Win32\Debug\linkresult_3C45CCDB629C093D2E4A063CA84ECA04\GameAssembly.lib and object D:\Hololens-Games\UnityHoloLens-2\Basic HUD-2\build\obj\il2cppOutputProject\Win32\Debug\linkresult_3C45CCDB629C093D2E4A063CA84ECA04\GameAssembly.exp
+  Total link time: 3169 milliseconds.
+  Cleaned up 2 object files.
