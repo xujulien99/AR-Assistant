@@ -1,0 +1,11 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 15.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: D:\Visual Studio\IDE\VC\Tools\MSVC\14.28.29910\bin\HostX64\x86\link.exe
+  	Msvc Compiler Path: D:\Visual Studio\IDE\VC\Tools\MSVC\14.28.29910\bin\HostX64\x86\cl.exe
+  
+  	Output directory: D:\Hololens-Games\UnityHoloLens-2\Basic HUD\build\bin\Win32\Release
+  	Cache directory: D:\Hololens-Games\UnityHoloLens-2\Basic HUD\build\obj\il2cppOutputProject\Win32\Release
+  ObjectFiles: 200 of which compiled: 0
+  Total compilation time: 130 milliseconds.
+  Cleaned up 2 object files.
